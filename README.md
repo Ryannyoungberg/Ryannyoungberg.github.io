@@ -1,2 +1,1 @@
-# Ryannyoungberg.github.io 
-# www.youtube.com  
+# Ryannyoungberg.github.io
