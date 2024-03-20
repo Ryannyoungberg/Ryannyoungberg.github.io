@@ -1,3 +1,9 @@
-p {
+.good {
+    color: green;
+    border: 1px solid green;
+    background-color: #b83434;
+
+}
+.bad {
     color: red;
 }
